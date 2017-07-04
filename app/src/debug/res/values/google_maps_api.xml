@@ -1,0 +1,24 @@
+<resources>
+    <!--
+    TODO: Before you run your application, you need a Google Maps API key.
+
+    To get one, follow this link, follow the directions and press "Create" at the end:
+
+    https://console.developers.google.com/flows/enableapi?apiid=maps_android_backend&keyType=CLIENT_SIDE_ANDROID&r=BC:31:C0:D7:FA:31:F3:7D:65:D6:7A:67:80:2B:72:E7:4C:4A:AC:6F%3Bcom.example.shea.brickemongo
+
+    You can also add your credentials to an existing key, using these values:
+
+    Package name:
+    BC:31:C0:D7:FA:31:F3:7D:65:D6:7A:67:80:2B:72:E7:4C:4A:AC:6F
+
+    SHA-1 certificate fingerprint:
+    BC:31:C0:D7:FA:31:F3:7D:65:D6:7A:67:80:2B:72:E7:4C:4A:AC:6F
+
+    Alternatively, follow the directions here:
+    https://developers.google.com/maps/documentation/android/start#get-key
+
+    Once you have your key (it starts with "AIza"), replace the "google_maps_key"
+    string in this file.
+    -->
+    <string name="google_maps_key" templateMergeStrategy="preserve" translatable="false">AIzaSyBG_E5MZWm3YmOGZZ_KRFD8xKsoz7zY0kY</string>
+</resources>
